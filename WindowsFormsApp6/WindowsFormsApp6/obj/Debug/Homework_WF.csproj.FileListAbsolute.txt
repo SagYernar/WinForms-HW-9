@@ -1,0 +1,10 @@
+C:\Users\Ернар\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Ернар\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Ернар\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Ернар\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\Homework_WF.EditFileForm.resources
+C:\Users\Ернар\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\Homework_WF.OpenFileForm.resources
+C:\Users\Ернар\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Ернар\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\Homework_WF.csproj.GenerateResource.Cache
+C:\Users\Ернар\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\Homework_WF.csproj.CoreCompileInputs.cache
+C:\Users\Ернар\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Ернар\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
